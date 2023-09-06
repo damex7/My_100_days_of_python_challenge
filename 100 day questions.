@@ -1,0 +1,123 @@
+Sure, I can provide you with a list of 100 Python learning questions or problems to solve. Here's a selection of questions that cover various aspects of Python programming. You can use these to challenge yourself over a 100-day period:
+
+**Day 1-10: Basics and Data Types**
+1. Print "Hello, World!" to the console.
+2. Calculate the sum of two numbers.
+3. Convert Fahrenheit to Celsius.
+4. Find the area of a triangle.
+5. Swap the values of two variables without using a temporary variable.
+6. Check if a number is even or odd.
+7. Calculate the factorial of a number.
+8. Convert a string to lowercase.
+9. Count the number of vowels in a string.
+10. Generate a random number between 1 and 100.
+
+**Day 11-20: Control Structures**
+11. Write a program to find the largest among three numbers.
+12. Check if a number is prime.
+13. Create a simple calculator that can perform addition, subtraction, multiplication, and division.
+14. Print the Fibonacci sequence up to a certain number of terms.
+15. Write a program to check if a string is a palindrome.
+16. Implement a basic login system using username and password.
+17. Write a loop to print the multiplication table of a number.
+18. Calculate the power of a number using a loop.
+19. Create a program to find the GCD (Greatest Common Divisor) of two numbers.
+20. Check if a year is a leap year.
+
+**Day 21-30: Lists and Strings**
+21. Find the sum and average of elements in a list.
+22. Remove duplicate elements from a list.
+23. Reverse a string without using built-in functions.
+24. Check if a string contains only digits.
+25. Implement a basic to-do list application.
+26. Count the occurrences of a word in a text.
+27. Create a program to sort a list of numbers.
+28. Implement a basic text editor with "add," "delete," and "view" functions.
+29. Check if a string is an anagram of another string.
+30. Create a program to find the second largest element in a list.
+
+**Day 31-40: Functions and Modules**
+31. Write a function to calculate the area of a circle.
+32. Create a module for common math operations (addition, subtraction, etc.).
+33. Find the longest word in a sentence.
+34. Create a function to generate a random password.
+35. Implement a basic calculator as a Python module.
+36. Calculate the square root of a number using a function.
+37. Write a program to convert text to Morse code.
+38. Create a function to find the median of a list of numbers.
+39. Implement a simple stopwatch using functions and time module.
+40. Create a program that simulates a dice roll.
+
+**Day 41-50: File Handling**
+41. Read data from a text file and display it.
+42. Write data to a text file.
+43. Count the number of lines in a text file.
+44. Find and replace a word in a text file.
+45. Create a program to generate a CSV file.
+46. Read and parse JSON data from a file.
+47. Create a program to append data to an existing file.
+48. Calculate the size of a file in bytes.
+49. Sort data in a CSV file.
+50. Create a program to copy a file from one location to another.
+
+**Day 51-60: Object-Oriented Programming**
+51. Create a class for a basic bank account with deposit and withdraw methods.
+52. Implement a simple student management system using classes.
+53. Create a class hierarchy for different types of vehicles.
+54. Write a program to simulate a basic shopping cart using classes.
+55. Implement a class for a basic calculator.
+56. Create a program to calculate the area and perimeter of various shapes using classes.
+57. Write a class for a simple todo list with add, delete, and view tasks methods.
+58. Implement a class for a basic library system with book checkout and return methods.
+59. Create a class to represent a basic 2D point and calculate distance between points.
+60. Implement a class for a basic email client with send and receive methods.
+
+**Day 61-70: Exception Handling and Debugging**
+61. Create a program that handles division by zero exceptions.
+62. Write a program with multiple try-except blocks to handle different types of exceptions.
+63. Debug a program with syntax errors.
+64. Debug a program with logical errors.
+65. Implement error handling for file input/output operations.
+66. Handle keyboard interrupts (Ctrl+C) gracefully in a program.
+67. Write a program that raises custom exceptions.
+68. Implement error handling for network communication.
+69. Create a program that logs errors to a file.
+70. Debug and fix a program with an infinite loop.
+
+**Day 71-80: Advanced Topics**
+71. Create a program that uses regular expressions to validate email addresses.
+72. Implement a basic web scraper using BeautifulSoup and requests libraries.
+73. Write a program to send emails using the smtplib library.
+74. Create a program that interacts with an API and parses JSON data.
+75. Implement a simple GUI application using Tkinter.
+76. Write a program to download and save files from the internet.
+77. Create a program that encrypts and decrypts text using cryptography libraries.
+78. Implement a basic neural network using a machine learning library like TensorFlow or PyTorch.
+79. Create a program that generates QR codes from text.
+80. Write a program to capture and process images from a webcam.
+
+**Day 81-90: Data Structures**
+81. Implement a stack data structure with push and pop operations.
+82. Create a program to evaluate postfix expressions using a stack.
+83. Implement a queue data structure with enqueue and dequeue operations.
+84. Write a program to find the shortest path in a graph using Dijkstra's algorithm.
+85. Implement a binary search tree and perform basic operations (insertion, deletion, traversal).
+86. Create a program to perform matrix multiplication.
+87. Implement a hash table with key-value pair operations (insert, delete, search).
+88. Write a program to perform a depth-first search (DFS) on a graph.
+89. Implement a priority queue using a min-heap.
+90. Create a program to find the longest increasing subsequence in an array.
+
+**Day 91-100: Projects and Challenges**
+91. Build a basic web application using a Python web framework (e.g., Flask or Django).
+92. Create a program that analyzes and visualizes data using a data visualization library (e.g., Matplotlib or Seaborn).
+93. Implement a simple game using a game development library (e.g., Pygame).
+94. Write a program that generates and analyzes random data.
+95. Build a chatbot using natural language processing libraries (e.g., NLTK or spaCy).
+96. Create a program that scrapes data from a website and stores it in a database.
+97. Implement a basic recommendation system.
+98. Build a weather forecasting application using a weather API.
+99. Write a program that translates text from one language to another using a translation API.
+100. Combine your knowledge to create a unique project of your choice!
+
+These questions and challenges should provide a structured learning path for your Python journey over 100 days. Feel free to adapt them to your level of expertise and interests as you progress. Happy coding!
